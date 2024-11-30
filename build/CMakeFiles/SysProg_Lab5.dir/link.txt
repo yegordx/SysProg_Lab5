@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SysProg_Lab5.dir/Parser.cpp.o CMakeFiles/SysProg_Lab5.dir/Scanner.cpp.o CMakeFiles/SysProg_Lab5.dir/src/main.cpp.o CMakeFiles/SysProg_Lab5.dir/src/cli.cpp.o CMakeFiles/SysProg_Lab5.dir/src/ast/TreeNode.cpp.o CMakeFiles/SysProg_Lab5.dir/src/ast/TreeVisualizer.cpp.o -o SysProg_Lab5  /usr/lib/x86_64-linux-gnu/libfl.so -lcgraph -lgvc 

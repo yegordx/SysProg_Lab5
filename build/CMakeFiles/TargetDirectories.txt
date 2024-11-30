@@ -1,0 +1,3 @@
+/home/yegor/lab5/SysProg_Lab5/build/CMakeFiles/SysProg_Lab5.dir
+/home/yegor/lab5/SysProg_Lab5/build/CMakeFiles/edit_cache.dir
+/home/yegor/lab5/SysProg_Lab5/build/CMakeFiles/rebuild_cache.dir
